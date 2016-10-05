@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     
-        // modificacion primera
+        // modificacion primera con cosas de segunda
     
     override func viewDidLoad() {
         super.viewDidLoad()
